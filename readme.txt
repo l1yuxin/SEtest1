@@ -1,1 +1,1 @@
-This is my first time to use Git.
+I have to do my homework on National Day.
